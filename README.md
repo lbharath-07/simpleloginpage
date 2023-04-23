@@ -1,4 +1,4 @@
 # simpleloginpage
-username:lb
-password:lb@123
+username:lb/n
+password:lb@123/n
 these are the login credentials to login.
